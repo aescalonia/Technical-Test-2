@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TechnicalTest_areta</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="name">Username</string>
+    <string name="profile_image_description">image</string>
+    <string name="default_name">name</string>
+    <string name="default_address">address</string>
+    <string name="masuk">Masuk</string>
+    <string name="student_list">Student List</string>
+</resources>
